@@ -1,0 +1,10 @@
+
+
+# Avoid developing tools and credentials
+/.vagrant/*
+/.vscode/*
+/data/*
+/www/dev/*
+/www/.vscode/*
+/www/api/assets/scripts/conn.php
+/Vagrantfile
